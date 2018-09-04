@@ -8,7 +8,7 @@
 
 #define PLUGIN "getattachment and boneplacement fix"
 #define VERSION "1.0"
-#define AUTHOR "GlobalModders.net"
+#define AUTHOR "GlobalModders"
 
 public plugin_init() {
 	register_plugin(PLUGIN, VERSION, AUTHOR)
